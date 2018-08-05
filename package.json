@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Alexa server application (for testing purposes only)",
   "main": "server.js",
-  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "author": "Łukasz Budnik <taeyangofrose@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "alexa-app-server": "^2.3.1",
