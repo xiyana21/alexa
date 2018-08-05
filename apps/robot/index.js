@@ -9,8 +9,9 @@ var app = new alexa.app("robot");
 const gcmServerKey = process.env.GCM_SERVER_KEY;
 const registrationToken = process.env.REGISTRATION_TOKEN;
 
-var sender = new gcm.Sender(gcmServerKey);
-var registrationTokens = [registrationToken];
+var sender = AAAA1M8uPDQ:APA91bGy4zCtEYH5MmCYcgi7NWcv-MN4E1un_hLdpFkLa2Zvl8ldf54m9wPcUgAsFJXtml8MBaCvaBE4EZ0kEtm9LbphB6FmsaeCLfGaGQjJQ8265XvUBYl_kmhTSqs8DF9xoS6Qzwkb2rmzmt9oKAJSgOuB5HuNdA
+;
+var registrationTokens = eRLpUd8GK7s:APA91bGUTEVD8BBjMNC6LHQnZlllDzY_3L18AkXqs2Spm9c97MSgwOFnmjnLCYd59vrXKJVg2U70Y22Eqc2wclN2edwcwD0dN6ymMcOk0muLeTk3YzR1_TITzyrfGoqV4d3Yxz2f8_8UM4EKtzxvLap2ulMwMJCd1w;
 
 var n = ["north", "forward", "up"];
 var ne = ["north east"];
