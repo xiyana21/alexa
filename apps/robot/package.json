@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Alexa app to control robot",
   "main": "index.js",
-  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "author": "Łukasz Budnik <taeyangofrose@gmail.com>",
   "license": "Apache-2.0",
   "alexa": {
     "applicationId": null
